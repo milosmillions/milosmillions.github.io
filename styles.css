@@ -84,7 +84,7 @@ html {
 
 #projects {
   text-align: center;
-  background: #ff79c6;
+  background: linear-gradient(to left, #282a36, #44475a);
   padding: 0rem 2rem;
   overflow: hidden;
 }
